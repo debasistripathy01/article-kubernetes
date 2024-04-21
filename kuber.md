@@ -179,5 +179,7 @@ kubectl run hello-world-pod --image=busybox --restart=Never --command -- sh -c "
 
 ## refer this https://github.com/LondheShubham153/kubestarter/blob/main/kubeadm_installation.md
 
+## refer for kubernetes with Nginx https://github.com/LondheShubham153/kubestarter/tree/main/examples/nginx
+
 
 ```
